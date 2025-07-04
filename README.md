@@ -2,6 +2,8 @@
 
 A real-time task management application built with **Meteor**, **React**, and **MongoDB**. Based on the [official Meteor React tutorial](https://docs.meteor.com/tutorials/react/#create-task-component).
 
+🌐 **Live Demo**: [https://meteordemoapp-ritazhou.meteorapp.com/](https://meteordemoapp-ritazhou.meteorapp.com/)
+
 ## Features
 
 - ✅ **User Authentication** - Login/logout system
@@ -39,6 +41,8 @@ A real-time task management application built with **Meteor**, **React**, and **
 3. **Access the App**
    - Open `http://localhost:3000`
    - Login with: `meteor` / `password`
+
+**Or visit the live demo**: [https://meteordemoapp-ritazhou.meteorapp.com/](https://meteordemoapp-ritazhou.meteorapp.com/)
 
 ## Demo Credentials
 - **Username**: `meteor`
